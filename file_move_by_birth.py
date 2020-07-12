@@ -3,8 +3,8 @@ from datetime import datetime
 import shutil
 from file_list import get_file_list
 
-old_path = r'/Users/jiangzhiyi/Downloads/vedio'
-new_path = r'/Users/jiangzhiyi/Downloads/temp'
+old_path = r'/Users/jiangzhiyi/Downloads/temp'
+new_path = r'/Users/jiangzhiyi/Downloads/Japan'
 
 
 def move_file(src_file, dst_dir):
